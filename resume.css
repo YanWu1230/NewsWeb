@@ -1,0 +1,58 @@
+h2
+{
+
+top: 0;
+text-align: center;
+text-transform: uppercase;
+font-family:  serif;
+border: 2px black;
+
+}
+hr
+{
+    border-color: black;
+}
+body
+{
+    padding-bottom: 200px;
+    background-color:rgb(247, 215, 110);
+}
+p.basic
+{
+    
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+div.title
+{
+    position: -webkit-sticky sticky;
+    position:sticky;
+    top: 0;
+}
+#workExperience
+{
+    width: 100%;
+    float: left;
+    color: black;
+    
+}
+#education
+{
+    width: 100%;
+    float: left;
+    font: outline;
+    
+}
+
+div.school
+{
+    float:left;
+}
+
+div.date
+{
+    float:right;
+}
